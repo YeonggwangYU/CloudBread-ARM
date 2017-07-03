@@ -11,9 +11,9 @@
     },
     "Location": {
       "type": "string",
-      "defaultValue": "Japan West",
+      "defaultValue": "Korea Central",
       "allowedValues": [
-        "Japan West",
+        "Korea Central",
         "Japan East",
         "East Asia",
         "Southeast Asia"
