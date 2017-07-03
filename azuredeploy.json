@@ -13,8 +13,8 @@
       "type": "string",
       "defaultValue": "Korea Central",
       "allowedValues": [
+        "Japan West",
         "Korea Central",
-        "Japan East",
         "East Asia",
         "Southeast Asia"
       ]
