@@ -130,7 +130,7 @@
     },
     "name": "[concat(variables('postfixName'),variables('socketPlanName'))]",
     "apiVersion": "2015-08-01",
-    "location": "Japan West",
+    "location": "Korea Central",
     "properties": {
       "name": "[concat(variables('postfixName'),variables('socketPlanName'))]",
       "numberOfWorkers": 0
