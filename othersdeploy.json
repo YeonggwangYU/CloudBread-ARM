@@ -11,10 +11,10 @@
     },
     "Location": {
       "type": "string",
-      "defaultValue": "Japan West",
+      "defaultValue": "Korea Central",
       "allowedValues": [
         "Japan West",
-        "Japan East",
+        "Korea Central",
         "East Asia",
         "Southeast Asia"
       ]
@@ -130,7 +130,7 @@
     },
     "name": "[concat(variables('postfixName'),variables('socketPlanName'))]",
     "apiVersion": "2015-08-01",
-    "location": "Japan West",
+    "location": "Korea Central",
     "properties": {
       "name": "[concat(variables('postfixName'),variables('socketPlanName'))]",
       "numberOfWorkers": 0
